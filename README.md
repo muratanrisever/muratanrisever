@@ -33,7 +33,7 @@
 
 ## 📫 İletişim  
 
-- **LinkedIn**: [linkedin.com/in/muratanrisever](https://linkedin.com/in/muratanrisever)  
+- **LinkedIn**: [linkedin.com/in/murattanrisever](https://linkedin.com/in/muratanrisever)  
 - **E‑mail**: `info@murattanrisever.com`
 
 
