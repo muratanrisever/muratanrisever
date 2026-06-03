@@ -1,6 +1,8 @@
 # 👋 Merhaba, ben **Murat Tanrısever**  
 
-![Banner](https://raw.githubusercontent.com/muratanrisever/muratanrisever/main/assets/banner.png)
+<img src="https://img.shields.io/badge/github-repo-blue?logo=github"
+     alt="GitHub repo badge"
+     style="width:100%; max-width:600px; height:auto; margin:12px 0;">
 
 ## 🚀 Ben ne yapıyorum?  
 
