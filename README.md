@@ -34,7 +34,7 @@
 ## 📫 İletişim  
 
 - **LinkedIn**: [linkedin.com/in/muratanrisever](https://linkedin.com/in/muratanrisever)  
-- **E‑mail**: `info@murattanrisever.com` _(gerçek e‑postanızı ekleyin)_    
+- **E‑mail**: `info@murattanrisever.com`
 
 
 💡 **İstediğiniz bir kısmı özelleştirmek ya da ek bir repo eklemek isterseniz, sadece söyleyin – hemen güncelleriz!**  
