@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/github-repo-blue?logo=github"
      alt="GitHub repo badge"
-     style="width:20%; max-width:200px; height:auto; margin:12px 0;">
+     style="width:10%; max-width:100px; height:auto; margin:12px 0;">
 
 ## 🚀 Ben ne yapıyorum?  
 
