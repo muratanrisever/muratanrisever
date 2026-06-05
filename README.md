@@ -12,7 +12,7 @@
 - **Backend**: ASP.NET Core, JWT, mikro‑servis mimarileri.  
 - **DevOps**: GitHub Actions, Docker, CI/CD otomasyonu.
 
-## ✨ En Çok Öne Çıkan Public Projelerim  
+## ✨ En Çok Öne Çıkan Projelerim  
 
 | Proje | Açıklama | Dil | ⭐ | Link |
 |------|----------|-----|---|------|
@@ -35,6 +35,3 @@
 
 - **LinkedIn**: [linkedin.com/in/murattanrisever](https://linkedin.com/in/muratanrisever)  
 - **E‑mail**: `info@murattanrisever.com`
-
-
-💡 **İstediğiniz bir kısmı özelleştirmek ya da ek bir repo eklemek isterseniz, sadece söyleyin – hemen güncelleriz!**  
