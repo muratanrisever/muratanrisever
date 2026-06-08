@@ -26,11 +26,6 @@
 
 > **🔒 Private repo** – bazı projeler sadece davetli erişir.  
 
-## 📊 İstatistikler  
-
-https://github-readme-stats.vercel.app/api?username=muratanrisever&show_icons=true&theme=radical)](https://github.com/muratanrisever)
-https://github-readme-stats.vercel.app/api/top-langs/?username=muratanrisever&layout=compact&theme=radical)](https://github.com/muratanrisever)
-
 ## 📫 İletişim  
 
 - **LinkedIn**: [linkedin.com/in/murattanrisever](https://linkedin.com/in/muratanrisever)  
