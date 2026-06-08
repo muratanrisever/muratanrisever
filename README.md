@@ -28,8 +28,8 @@
 
 ## 📊 İstatistikler  
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=muratanrisever&show_icons=true&theme=radical)](https://github.com/muratanrisever)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muratanrisever&layout=compact&theme=radical)](https://github.com/muratanrisever)  
+https://github-readme-stats.vercel.app/api?username=muratanrisever&show_icons=true&theme=radical)](https://github.com/muratanrisever)
+https://github-readme-stats.vercel.app/api/top-langs/?username=muratanrisever&layout=compact&theme=radical)](https://github.com/muratanrisever)
 
 ## 📫 İletişim  
 
